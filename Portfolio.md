@@ -1,7 +1,7 @@
 Portofolio Karel
 Nama lengkap   : Gerardus Mayela Karel Pradipta
 Nama panggilan : Karel
-Usia : 22 Tahun
+Usia : 25 Tahun
 Tanggal lahir  : 26 Oktober 1997
 Tempat tinggal : Semarang
 TK : TK Tiara Bunda
