@@ -1,4 +1,4 @@
-Portfolio Karel
+Portofolio Karel
 Nama lengkap   : Gerardus Mayela Karel Pradipta
 Nama panggilan : Karel
 Usia : 25 Tahun
