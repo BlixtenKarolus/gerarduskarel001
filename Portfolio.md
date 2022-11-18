@@ -9,3 +9,5 @@ SD : SD Santo Yusuf
 SMP : SMP Stamford International Community School
 SMA : PKBM Ngudi Kawruh Untuk Paket B + C
 Kuliah : Universitas Katolik Soegijapranata
+
+Test
